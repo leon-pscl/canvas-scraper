@@ -1,0 +1,3 @@
+A Graphical User Interface (GUI) application is a program that the user can interact with through graphics (windows, buttons, text fields, checkboxes, images, icons, etc..) such as the Desktop GUI of Windows OS by using a mouse and keyboard unlike with a Command-line program or Terminal program that support keyboard inputs only.
+
+PyQt5 is a Python GUI Framework based on the Qt Framework of C++ which enables Python developers to build a wide range of Desktop GUI Applications through the Qt Widgets.

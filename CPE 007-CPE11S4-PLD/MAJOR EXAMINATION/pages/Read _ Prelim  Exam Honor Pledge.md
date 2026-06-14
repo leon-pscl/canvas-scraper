@@ -1,0 +1,1 @@
+"I affirm that I shall not give or receive any unauthorized help on this exam and that all work shall be my own."

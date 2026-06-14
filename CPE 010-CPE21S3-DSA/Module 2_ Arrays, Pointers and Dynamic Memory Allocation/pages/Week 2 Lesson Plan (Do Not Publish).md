@@ -1,0 +1,1 @@
+[CPE010_Wk2.docx](https://tip.instructure.com/courses/56136/files/25722142/?verifier=JK1aXHjMDQo9Oo7ujfYBUbF55I7YHoy6nd3LiymP&wrap=1)

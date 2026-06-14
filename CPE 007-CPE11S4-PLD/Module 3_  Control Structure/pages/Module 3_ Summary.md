@@ -1,0 +1,1 @@
+Simple control structures A program is not usually limited to a linear sequence of instructions. It can bifurcate, repeat code or take decisions during its operation. To this end, C++ includes control mechanisms that help to determine what our software has to do, when and under what circumstances.

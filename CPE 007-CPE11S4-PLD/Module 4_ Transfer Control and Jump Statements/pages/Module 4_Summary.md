@@ -1,0 +1,1 @@
+Branching statements allow the execution flow to jump to another part of the program. Popular statements for branching used in other control systems include: break, continue, return, and goto. The goto is seldom employed in organized modular programming. In addition, we will add a predefined function widely used in programming languages of: exit to our list of branching products.

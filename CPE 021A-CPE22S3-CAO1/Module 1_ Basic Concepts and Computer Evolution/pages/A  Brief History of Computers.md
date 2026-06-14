@@ -1,0 +1,1 @@
+This history is interesting in itself, but more importantly, provides a basic introduction to many important concepts that we deal with throughout the class. The history can be summarized in this table:

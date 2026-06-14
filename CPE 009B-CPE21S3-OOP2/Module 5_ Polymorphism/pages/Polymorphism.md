@@ -1,0 +1,5 @@
+Polymorphism is a core principle of Object-Oriented that is also called “method overriding”. Simply stated the principles says that a method can be redefined to have a different behavior in different derived classees.
+
+For an example, consider a base file reader/writer class then three derived classes Text file reader/writer, CSV file reader/writer, and JSON file reader/writer. The base file reader/writer class has the methods: read(filepath=””) , write(filepath=””). The three derived classes (classes that would inherit from the base class) should have behave differently when their read, write methods are invoked.
+
+CSV stands for Comma Separated Values while JSON stands for Javascript Server Object Notation. These are the standard file formats and structures used by applications and systems to transfer/exchange data between their systems. For example, you may visit this online api [http://dummy.restapiexample.com/api/v1/employees](http://dummy.restapiexample.com/api/v1/employees) (note that the data is fake) but this url provides data that another system can consume and use in their system.
